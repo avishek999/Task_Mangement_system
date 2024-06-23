@@ -34,33 +34,30 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/task-management-system.git
+    git clone https://github.com/avishek999/Task_Mangement_system.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd task-management-system
+    cd Task_Mangement_system
     ```
 3. Manually include Tailwind CSS in your HTML files.
 
 ### Backend Setup
 
-1. Navigate to the backend directory:
-    ```sh
-    cd backend
     ```
-2. Install backend dependencies:
+1. Install backend dependencies:
     ```sh
     composer install
     ```
-3. Create a copy of the `.env` file:
+2. Create a copy of the `.env` file:
     ```sh
     cp .env.example .env
     ```
-4. Generate an application key:
+3. Generate an application key:
     ```sh
     php artisan key:generate
     ```
-5. Configure your `.env` file with your database credentials:
+4. Configure your `.env` file with your database credentials:
     ```env
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
@@ -98,8 +95,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact me at your.email@example.com.
+If you have any questions or feedback, please feel free to contact me at avishekprasad0999@gmail.com.
 
 ---
 
-Feel free to customize this template to better suit your project details and preferences!
