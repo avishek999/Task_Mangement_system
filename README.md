@@ -8,6 +8,12 @@ Sure, here's an updated README file reflecting those details:
 
 The Task Management System is a web application designed to help users manage and organize their tasks efficiently. The system provides features for user authentication and task management with deadlines.
 
+![Task Management System Screenshot](Screenshot 2024-06-23 204534.png)
+![Task Management System Screenshot](2.png)
+![Task Management System Screenshot](3.png)
+
+
+
 ## Features
 
 - **Custom User Authentication**: Secure user registration and login.
